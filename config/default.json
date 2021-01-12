@@ -1,0 +1,9 @@
+{
+    "ebayDomain":"www.ebay.com",
+    "amazonDomain":"www.amazon.com",
+    "ebay":"prcIsum",
+    "ebayProduct":"itemTitle",
+    "amazon":"priceblock_ourprice",
+    "amazon2":"priceblock_saleprice",
+    "amazonProduct":"productTitle"
+}
